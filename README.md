@@ -20,9 +20,9 @@ A simple, responsive quiz application built using **HTML**, **CSS**, and **JavaS
 ## 📁 Project Structure
 quiz-app/
 │
-├── index.html # Main HTML structure
-├── style.css # Styling for quiz UI
-├── script.js # Quiz logic, data, scoring, and timer
-└── README.md # Project documentation (this file)
+├── index.html     → Main webpage layout
+├── style.css      → Styles for the quiz (colors, fonts, layout)
+├── script.js      → Quiz functionality (questions, timer, score)
+└── README.md      → Project info and instructions
 
 
